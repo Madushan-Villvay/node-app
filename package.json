@@ -1,0 +1,23 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madushan-Villvay/node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madushan-Villvay/node-app/issues"
+  },
+  "homepage": "https://github.com/Madushan-Villvay/node-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
